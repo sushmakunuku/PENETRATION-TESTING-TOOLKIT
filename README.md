@@ -18,6 +18,15 @@ A modular Python toolkit for penetration testing with multiple modules.
 - Python 3.x
 - `requests` library (`pip install requests`)
 
+## 🔐 Screenshots
+
+### Result
+![Result](p33.png)
+
+![Weak Password](p31.png)
+
+![Medium Password](p32.png)
+
 ## Running the Toolkit
 ```bash
 python main.py
