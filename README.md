@@ -1,1 +1,23 @@
-# PENETRATION-TESTING-TOOLKIT
+# Penetration Testing Toolkit
+
+## Overview
+A modular Python toolkit for penetration testing with multiple modules.
+
+## Modules
+
+### Port Scanner
+- Scans a range of ports on a target host.
+- Usage: Select module 1, enter target and port range.
+
+### Brute Forcer
+- Attempts to brute force login on a web form.
+- Usage: Select module 2, enter login URL, username, and password list file path.
+- Note: Adjust the POST data and success condition in `brute_forcer.py` as needed.
+
+## Requirements
+- Python 3.x
+- `requests` library (`pip install requests`)
+
+## Running the Toolkit
+```bash
+python main.py
