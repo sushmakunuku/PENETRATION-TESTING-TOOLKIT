@@ -23,8 +23,10 @@ A modular Python toolkit for penetration testing with multiple modules.
 ### Result
 ![Result](p33.png)
 
+### Port Scanner
 ![Weak Password](p31.png)
 
+### Brute Forcer
 ![Medium Password](p32.png)
 
 ## Running the Toolkit
