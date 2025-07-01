@@ -1,5 +1,17 @@
 # Penetration Testing Toolkit
 
+**COMPANY** :- CODTECH IT SOLUTIONS 
+
+**NAME** : KUNUKU SUSHMA 
+
+**INTERN ID** : CT06DN1234
+
+**DOMAIN** : Cyber Security & Ethical Hacking
+
+**DURATION** : 6 WEEKS
+
+**MENTOR** : NEELA SANTOSH 
+
 ## Overview
 A modular Python toolkit for penetration testing with multiple modules.
 
